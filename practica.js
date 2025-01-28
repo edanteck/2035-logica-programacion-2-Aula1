@@ -392,3 +392,4 @@ function sumaLista(lista){
 
  alert(listaAlCuadrado(listaEjemplo));
 
+   // proceso de cambio en el funcionamiento
